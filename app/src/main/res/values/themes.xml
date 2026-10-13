@@ -1,0 +1,4 @@
+<resources>
+    <!-- Compose draws the UI; this only sets the window before it starts. -->
+    <style name="Theme.YellowBot" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
